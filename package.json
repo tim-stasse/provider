@@ -265,7 +265,7 @@
     "sinon": "^7.2.2",
     "styled-components": "^4.1.2",
     "toctoc": "^0.3.2",
-    "webpack": "^4.27.1"
+    "webpack": "4.35.3"
   },
   "dependencies": {
     "@bootstrap-styled/css-mixins": "^2.0.0",
